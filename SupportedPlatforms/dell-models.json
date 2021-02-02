@@ -1,0 +1,290 @@
+{
+    "Dell" : {
+        "Dell Command": [
+            {
+                "ProgramName": "Configure"
+            },
+            {
+                "ProgramName": "Monitor"
+            },
+            {
+                "ProgramName": "PowerShell Providor"
+            }
+        ],
+        "Version": "2",
+        "Description": "Supported Platforms/BIOS reference list for Dell Command | Configure, Dell Command | Monitor and Dell Command | PowerShell Provider",
+        "URL": "https://www.dell.com/support/kbdoc/en-us/000146625/supported-platforms-bios-reference-list-for-dell-command-configure-dell-command-monitor-and-dell-command-powershell-provider",
+        "LastPublishedDate": "20 NOV 2020",
+        "SupportedPlatforms": [
+            {
+                "MODEL": "Latitude E7250",
+                "MINBIOSVER": "A07"
+            },
+            {
+                "MODEL": "Latitude 7350",
+                "MINBIOSVER": "A07"
+            },
+            {
+                "MODEL": "Latitude E5250",
+                "MINBIOSVER": "A10"
+            },
+            {
+                "MODEL": "Latitude 7202",
+                "MINBIOSVER": "A02"
+            },
+            {
+                "MODEL": "Latitude E7440",
+                "MINBIOSVER": "A15"
+            },
+            {
+                "MODEL": "Latitude E5550",
+                "MINBIOSVER": "A10"
+            },
+            {
+                "MODEL": "Latitude E5440",
+                "MINBIOSVER": "A13"
+            },
+            {
+                "MODEL": "Latitude E5540",
+                "MINBIOSVER": "A13"
+            },
+            {
+                "MODEL": "Latitude E7240",
+                "MINBIOSVER": "A16"
+            },
+            {
+                "MODEL": "Latitude 7204",
+                "MINBIOSVER": "A06"
+            },
+            {
+                "MODEL": "Latitude E5530",
+                "MINBIOSVER": "A17"
+            },
+            {
+                "MODEL": "Latitude E5430",
+                "MINBIOSVER": "A16"
+            },
+            {
+                "MODEL": "Latitude 5404",
+                "MINBIOSVER": "A08"
+            },
+            {
+                "MODEL": "Latitude E5450",
+                "MINBIOSVER": "A10"
+            },
+            {
+                "MODEL": "Latitude E7270",
+                "MINBIOSVER": "A02"
+            },
+            {
+                "MODEL": "Latitude 7275",
+                "MINBIOSVER": "A01"
+            },
+            {
+                "MODEL": "Latitude 3460",
+                "MINBIOSVER": "A00"
+            },
+            {
+                "MODEL": "Latitude 3470",
+                "MINBIOSVER": "A00"
+            },
+            {
+                "MODEL": "Latitude E7470",
+                "MINBIOSVER": "A02"
+            },
+            {
+                "MODEL": "Latitude 3560",
+                "MINBIOSVER": "A02"
+            },
+            {
+                "MODEL": "Latitude 3570",
+                "MINBIOSVER": "A02"
+            },
+            {
+                "MODEL": "Latitude E5270",
+                "MINBIOSVER": "A06"
+            },
+            {
+                "MODEL": "Latitude E5470",
+                "MINBIOSVER": "A06"
+            },
+            {
+                "MODEL": "Latitude E5570",
+                "MINBIOSVER": "A06"
+            },
+            {
+                "MODEL": "Latitude 3160",
+                "MINBIOSVER": "A03"
+            },
+            {
+                "MODEL": "Latitude 3150",
+                "MINBIOSVER": "A04"
+            },
+            {
+                "MODEL": "Latitude 3030 AIO",
+                "MINBIOSVER": "A07"
+            },
+            {
+                "MODEL": "Latitude 3350",
+                "MINBIOSVER": "A04"
+            },
+            {
+                "MODEL": "Latitude 7370",
+                "MINBIOSVER": "A00"
+            },
+            {
+                "MODEL": "Latitude 5175",
+                "MINBIOSVER": "A01"
+            },
+            {
+                "MODEL": "Latitude 5179",
+                "MINBIOSVER": "A01"
+            },
+            {
+                "MODEL": "Latitude 7404",
+                "MINBIOSVER": "A20"
+            },
+            {
+                "MODEL": "XPS 9350",
+                "MINBIOSVER": "A00"
+            },
+            {
+                "MODEL": "XPS 9250",
+                "MINBIOSVER": "A01"
+            },
+            {
+                "MODEL": "XPS 9343",
+                "MINBIOSVER": "A07"
+            },
+            {
+                "MODEL": "XPS 9550",
+                "MINBIOSVER": "A05"
+            },
+            {
+                "MODEL": "Precision T5810",
+                "MINBIOSVER": "A09"
+            },
+            {
+                "MODEL": "Precision T7810",
+                "MINBIOSVER": "A09"
+            },
+            {
+                "MODEL": "Precision M4800",
+                "MINBIOSVER": "A15"
+            },
+            {
+                "MODEL": "Precision M6800",
+                "MINBIOSVER": "A15"
+            },
+            {
+                "MODEL": "Precision 3620 MT",
+                "MINBIOSVER": "A00"
+            },
+            {
+                "MODEL": "Precision 7710",
+                "MINBIOSVER": "A00"
+            },
+            {
+                "MODEL": "Precision 3420 SFF",
+                "MINBIOSVER": "A00"
+            },
+            {
+                "MODEL": "Precision 7510",
+                "MINBIOSVER": "A00"
+            },
+            {
+                "MODEL": "Precision 5510",
+                "MINBIOSVER": "A00"
+            },
+            {
+                "MODEL": "Precision 3510",
+                "MINBIOSVER": "A06"
+            },
+            {
+                "MODEL": "Precision T1700",
+                "MINBIOSVER": "A18"
+            },
+            {
+                "MODEL": "Optiplex 7020",
+                "MINBIOSVER": "A09"
+            },
+            {
+                "MODEL": "OptiPlex 9020M",
+                "MINBIOSVER": "A07"
+            },
+            {
+                "MODEL": "OptiPlex 9020 AIO",
+                "MINBIOSVER": "A12"
+            },
+            {
+                "MODEL": "OptiPlex 9020",
+                "MINBIOSVER": "A14"
+            },
+            {
+                "MODEL": "OptiPlex 9010",
+                "MINBIOSVER": "A21"
+            },
+            {
+                "MODEL": "OptiPlex 7440 AIO",
+                "MINBIOSVER": "A00"
+            },
+            {
+                "MODEL": "OptiPlex 3240",
+                "MINBIOSVER": "A00"
+            },
+            {
+                "MODEL": "OptiPlex 7040 MT",
+                "MINBIOSVER": "A02"
+            },
+            {
+                "MODEL": "OptiPlex 7040 SFF",
+                "MINBIOSVER": "A02"
+            },
+            {
+                "MODEL": "OptPlex 7040 Micro",
+                "MINBIOSVER": "A02"
+            },
+            {
+                "MODEL": "OptiPlex 3040 MT",
+                "MINBIOSVER": "A00"
+            },
+            {
+                "MODEL": "OptiPlex 3040 Micro",
+                "MINBIOSVER": "A00"
+            },
+            {
+                "MODEL": "OptiPlex 3040 SFF",
+                "MINBIOSVER": "A00"
+            },
+            {
+                "MODEL": "OptiPlex 5040 MT",
+                "MINBIOSVER": "A03"
+            },
+            {
+                "MODEL": "OptiPlex 5040 SFF",
+                "MINBIOSVER": "A03"
+            },
+            {
+                "MODEL": "OptiPlex XE2",
+                "MINBIOSVER": "A15"
+            },
+            {
+                "MODEL": "OptiPlex 3020",
+                "MINBIOSVER": "A10"
+            },
+            {
+                "MODEL": "OptiPlex 3020M",
+                "MINBIOSVER": "A06"
+            },
+            {
+                "MODEL": "OptiPlex 9030 AIO",
+                "MINBIOSVER": "A12"
+            },
+            {
+                "MODEL": "OptiPlex 9030",
+                "MINBIOSVER": "A17"
+            }
+        ]
+    }
+   
+}
